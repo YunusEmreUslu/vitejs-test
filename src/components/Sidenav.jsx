@@ -25,9 +25,7 @@ const Sidenav = () => {
         )
         : (
             <div>
-            <div>
-                
-                </div>
+            
             </div>
         )
       }
